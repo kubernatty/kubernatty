@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kubernatty
 - 👀 I’m interested in Data Science, Smart Contracts, Blockchain Development, ML, AI, and algotrading
-- 🌱 I’m currently sleep deprived
-- 💞️ Available on retainer
 - 📫 How to reach me nbuisson@berkeley.edu 
 
 <!---
